@@ -1,0 +1,11 @@
+{
+    "name": "franknobel/ozon_workers",
+    "description": "workers for ozon api seller",
+    "require": {
+        "php": ">=8.2",
+        "smi2/phpclickhouse": "^1.5",
+        "symfony/routing": "^7.0",
+        "symfony/dotenv": "^7.0",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
